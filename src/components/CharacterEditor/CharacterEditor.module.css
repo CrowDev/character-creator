@@ -4,6 +4,8 @@
 }
 
 .maxWidthWrapper {
+  display: inline-block;
+  padding-inline: 250px;
 }
 
 .header {
@@ -24,6 +26,13 @@
 }
 
 .characterWrapper {
+  width: 600px;
+  height: 600px;
+  display: inline-block;
+  position: fixed;
+  bottom: 0;
+  top: 0;
+  margin: auto;
 }
 
 .controlColumn {

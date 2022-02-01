@@ -10,6 +10,13 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+
+  /* Added by Crow */
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  max-height: 125px;
+  max-width: 460px;
 }
 
 .title {
